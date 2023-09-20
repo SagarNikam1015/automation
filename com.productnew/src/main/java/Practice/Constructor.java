@@ -4,7 +4,6 @@ public class Constructor {
 	String partNumber,price,description;
 
 	public Constructor(String partNumber, String price, String description) {
-		super();
 		this.partNumber = partNumber;
 		this.price = price;
 		this.description = description;
